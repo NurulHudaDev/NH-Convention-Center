@@ -9,3 +9,13 @@
     color: #3F87F5;
     font-weight: 600;
 }
+/*--------------- 
+    our package 
+-----------------*/
+#button{
+    text-decoration: none;
+    background-color: #ffe1f4;
+    padding: 5px 25px;
+    border-radius: 15px;
+    color: #3F87F5;
+}
