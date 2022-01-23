@@ -1,0 +1,11 @@
+/*-------------- 
+    carousel 
+----------------*/
+#btn-hero{
+    text-decoration: none;
+    background-color: #FFFFFF;
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: #3F87F5;
+    font-weight: 600;
+}
