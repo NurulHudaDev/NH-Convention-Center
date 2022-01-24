@@ -1,6 +1,14 @@
+body{
+    font-family: 'Fugaz One', cursive;
+    font-family: 'Poppins', sans-serif;
+}
 /*-------------- 
     carousel 
 ----------------*/
+.carousel-item img{
+    width: 1440px;
+    height: 584px;
+}
 #btn-hero{
     text-decoration: none;
     background-color: #FFFFFF;
