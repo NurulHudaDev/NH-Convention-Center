@@ -12,7 +12,7 @@ body{
 #btn-hero{
     text-decoration: none;
     background-color: #FFFFFF;
-    padding: 5px 20px;
+    padding: 10px 30px;
     border-radius: 5px;
     color: #3F87F5;
     font-weight: 600;
@@ -23,7 +23,8 @@ body{
 #button{
     text-decoration: none;
     background-color: #ffe1f4;
-    padding: 5px 25px;
-    border-radius: 15px;
+    padding: 10px 25px;
+    border-radius: 20px;
     color: #3F87F5;
+    font-weight: normal;
 }
