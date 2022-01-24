@@ -23,8 +23,8 @@ body{
 #button{
     text-decoration: none;
     background-color: #ffe1f4;
-    padding: 10px 25px;
+    padding: 10px 40px;
     border-radius: 20px;
     color: #3F87F5;
-    font-weight: normal;
+    font-size: 14px;
 }
